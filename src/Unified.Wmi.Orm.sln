@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unified.Wmi.Orm", "Unified.Wmi.Orm\Unified.Wmi.Orm.csproj", "{A319435B-73B1-493B-8FF0-57FA8EA43CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unified.Wmi.Orm.Test", "Unified.Wmi.Orm.Test\Unified.Wmi.Orm.Test.csproj", "{FD439541-8FE8-485F-82BF-D1D80A79A2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A319435B-73B1-493B-8FF0-57FA8EA43CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A319435B-73B1-493B-8FF0-57FA8EA43CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A319435B-73B1-493B-8FF0-57FA8EA43CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A319435B-73B1-493B-8FF0-57FA8EA43CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD439541-8FE8-485F-82BF-D1D80A79A2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD439541-8FE8-485F-82BF-D1D80A79A2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD439541-8FE8-485F-82BF-D1D80A79A2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD439541-8FE8-485F-82BF-D1D80A79A2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C80338-A95B-4B07-ABCF-F748ADBDBADE}
+	EndGlobalSection
+EndGlobal
